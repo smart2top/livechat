@@ -1,0 +1,1 @@
+## [1.0.0](https://github.com/smart2top/livechat) (2024-07-15)
