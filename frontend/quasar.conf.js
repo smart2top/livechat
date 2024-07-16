@@ -128,9 +128,9 @@ module.exports = function (ctx) {
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: 'IZING',
-        short_name: 'IZING',
-        description: 'Bot Multi-atendimento para whatsapp',
+        name: 'LIVECHAT',
+        short_name: 'LIVECHAT',
+        description: 'Multi-atendimento para empresas',
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
@@ -194,7 +194,7 @@ module.exports = function (ctx) {
 
       builder: {
         // https://www.electron.build/configuration/configuration
-        appId: 'IZING'
+        appId: 'LIVECHAT'
       },
 
       // More info: https://quasar.dev/quasar-cli/developing-electron-apps/node-integration

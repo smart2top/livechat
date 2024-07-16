@@ -1,7 +1,7 @@
 {
   "name": "backend",
-  "version": "2.0.0",
-  "description": "izing.open.io - sistema de atendimentos multicanal",
+  "version": "1.0.0",
+  "description": "livechat - sistema de atendimentos multicanal",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
@@ -17,9 +17,8 @@
   "engines": {
     "node": ">=18"
   },
-  "author": "Durans (lumardyelson@gmail.com)",
+  "author": "Smart2Top (smart2top.digital@gmail.com)",
   "private": true,
-  "license": "AGPL-3.0-or-later",
   "dependencies": {
     "@androz2091/insta.js": "^1.6.1",
     "@sentry/node": "5.27.0",

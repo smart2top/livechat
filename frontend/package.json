@@ -1,11 +1,10 @@
 {
-  "name": "izing",
-  "version": "1.9.0",
-  "description": "Bot Multiatendimento, multicanais e multiempresas.",
-  "productName": "IZING",
-  "author": "Durans <lumardyelson@gmail.com>",
+  "name": "livechat",
+  "version": "1.0.0",
+  "description": "Livechat - Multiatendimento para Empresas.",
+  "productName": "LIVECHAT",
+  "author": "Smart2Top <smart2top.digital@gmail.com>",
   "private": false,
-  "license": "AGPL-3.0-or-later",
   "scripts": {
     "lint": "eslint --ext .js,.vue ./",
     "test": "echo \"No test specified\" && exit 0"
